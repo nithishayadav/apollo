@@ -74,7 +74,7 @@
 		<javassist.version>3.23.1-GA</javassist.version>
 		<javax.activation.version>1.1.1</javax.activation.version>
 		<javax.mail.version>1.6.2</javax.mail.version>
-		<jaxb.version>2.3.1</jaxb.version>
+		<jaxb.version>2.3.9</jaxb.version>
 		<junit.version>5.9.2</junit.version>
 		<nacos-discovery-api.version>1.4.0</nacos-discovery-api.version>
 		<!-- database driver -->
